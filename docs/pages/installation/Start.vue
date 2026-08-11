@@ -23,7 +23,8 @@
         <b-message type="is-warning" size="is-medium">
             For any installation and usage method, you need
             <strong><a href="https://vuejs.org" target="_blank">Vue.js</a> version 2.6+</strong>.
-            <strong><a href="https://github.com/ntohq/buefy-next/" target="_blank">Vue.js version 3+ is supported here (official fork in development).</a></strong>
+            This site documents the <strong>Vue 2</strong> release line (<code>v0.x.x</code>).
+            Looking for <strong>Vue 3</strong>? See the <a href="https://buefy.org" target="_blank">official Buefy docs</a>.
         </b-message>
 
         <div class="media">

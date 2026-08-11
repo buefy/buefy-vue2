@@ -13,7 +13,7 @@
 
 > Buefy is a lightweight library of responsive UI components for [Vue.js](https://vuejs.org/) based on [Bulma](http://bulma.io/) framework and design.
 >
-> *Check out the official [`@ntohq/Buefy-next`](https://github.com/ntohq/buefy-next) fork in development for `Vue v3.0.0+` support.*
+> *This repository is dedicated to `Vue 2` support and stays on the `v0.x.x` release line. For `Vue 3` support, see the [official Buefy docs](https://buefy.org/).*
 
 ## Features
 
@@ -33,7 +33,7 @@ Browse [online documentation here](https://buefy.org/).
 
 ## Quick start
 
-You need [Vue.js](https://vuejs.org/) **version 2.6+**. (Vue 3 is supported [here](https://github.com/ntohq/buefy-next))
+You need [Vue.js](https://vuejs.org/) **version 2.6+**. (For `Vue 3` support, see the [official Buefy docs](https://buefy.org/))
 
 ### 1 Install via npm
 

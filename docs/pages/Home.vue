@@ -17,13 +17,12 @@
                     </div>
                     <div class="home-hero">
                         <p>
-                            <strong>Vue 3</strong>
+                            Looking for <strong>Vue 3</strong>?
                             (<a href="https://buefy.org" target="_blank">
                                 buefy vue3 docs
                                 <b-icon icon="github-circle" size="is-small" />
                             </a>)
                         </p>
-                        <pre class="npm"><code><span class="is-unselectable">$ </span>npm install buefy</code></pre>
                     </div>
 
                     <div class="github-button home-hero">
